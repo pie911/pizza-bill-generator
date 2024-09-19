@@ -1,3 +1,5 @@
 com\example\Pizza.class
+com\example\JarToExeConverter.class
+com\example\BuildAndPackage.class
 com\example\BillGenerator.class
 com\example\DeluxPizza.class
